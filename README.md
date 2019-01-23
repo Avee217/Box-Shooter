@@ -5,4 +5,5 @@ The player must shoot the right coloured boxes to score enough points after whic
 
 The second level adds a new element of giving the playet access to movement, forcing them to move and shoot behind obstacles
 
-Play by opening the index.html file located in the build/webGL folder.
+### Instructions
+Play by opening the `index.html` file located in the Builds/WebGL folder.
