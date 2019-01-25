@@ -7,3 +7,10 @@ The second level adds a new element of giving the player access to movement, for
 ### Instructions
 1. Download the .zip file and extract to your system
 2. Play by opening the `index.html` file located in the Builds/WebGL folder.
+
+### Screenshots
+
+![](Screenshots/BS1.png)
+![](Screenshots/BS2.png)
+![](Screenshots/BS3.png)
+![](Screenshots/BS4.png)
