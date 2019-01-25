@@ -6,5 +6,5 @@ The player must shoot the right coloured boxes to score enough points after whic
 The second level adds a new element of giving the player access to movement, forcing them to move and shoot behind obstacles
 
 ### Instructions
-1. Download the .zip file and extrac to your system
+1. Download the .zip file and extract to your system
 2. Play by opening the `index.html` file located in the Builds/WebGL folder.
